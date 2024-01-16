@@ -1,0 +1,30 @@
+body{
+    background-color:mintcream;
+   
+}
+.type{
+    text-align: center;
+    border: solid;
+}
+img{
+    width: 5em;
+}
+h1{
+    color:chocolate;
+    text-align: center;
+    
+}
+.type{
+    color:coral;
+    background-color:antiquewhite;
+}
+section{
+    padding: .5em;
+    margin: .5em;
+    border: solid;
+    background-color: darkgray;
+    display: inline-block;
+}
+.subtype{
+    font-style:italic;
+}
